@@ -1,0 +1,6 @@
+{
+  "name": "ZExpense",
+  "description": "Local-first expense and receipt tracker with private on-device storage, offline capture, and monthly PDF claim generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
